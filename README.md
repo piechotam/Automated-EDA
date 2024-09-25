@@ -1,7 +1,8 @@
-
 # 📊 Automated EDA (Exploratory Data Analysis)
 
 **Automated EDA** is a Python-based tool designed to automate the process of Exploratory Data Analysis (EDA). This project provides a streamlined solution for generating comprehensive reports, visualizing distributions, and performing preliminary data preprocessing—all with minimal effort from the user. Built with `Streamlit` for an intuitive and interactive web interface, this tool enables data scientists and analysts to quickly understand the structure and nuances of their data.
+
+**[Link to app](https://automated-eda-qthchywqrmkxuuwzuxmu3e.streamlit.app)**
 
 ---
 
