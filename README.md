@@ -41,22 +41,22 @@ Make sure you have the following installed:
 ### Installation
 1. Clone this repository:
 
-    \`\`\`bash
+    ```bash
     git clone https://github.com/your-username/automated-eda.git
     cd automated-eda
-    \`\`\`
+    ```
 
 2. Install the required packages:
 
-    \`\`\`bash
+    ```bash
     pip install -r requirements.txt
-    \`\`\`
+    ```
 
 3. Run the Streamlit app:
 
-    \`\`\`bash
+    ```bash
     streamlit run app.py
-    \`\`\`
+    ```
 
 4. Open your web browser and navigate to `http://localhost:8501` to use the app.
 
@@ -74,7 +74,7 @@ Make sure you have the following installed:
 
 ## 📦 Project Structure
 
-\`\`\`
+```
 automated-eda/
 │
 ├── src/
@@ -87,7 +87,7 @@ automated-eda/
 ├── requirements.txt           # Dependencies
 ├── README.md                  # This file
 └── data/                      # Sample datasets
-\`\`\`
+```
 
 ---
 
